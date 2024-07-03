@@ -1,0 +1,79 @@
+body{
+  background-image: url(https://i.pinimg.com/736x/a0/6a/08/a06a08d1575ab47a22b3102c9a19b679.jpg);
+}
+
+
+.main-bg {
+  margin-bottom: 20px;
+  background-image: url('https://images3.alphacoders.com/133/1333794.jpeg');
+  background-size: cover;
+  background-position: center center;
+  color: white;
+}
+
+
+.oquefz-bg{
+  margin-top: 20px;
+  background-image: url(https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/Cave.png/revision/latest?cb=20211107143808);
+  
+  background-size: cover;
+  background-position: center center;
+  color: rgb(255, 255, 255);
+  text-shadow:rgb(190, 192, 45) 1px 1px 15px;
+}
+
+.galeria-bg{
+  margin-top: 20px;
+  background-color: wheat;
+  
+  background-size: cover;
+  background-position: center center;
+  color: rgb(0, 0, 0);
+}
+.comojogar-bg{
+  background-image: url(https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Dirt_background_BE1.png/revision/latest?cb=20210820093527);
+  
+  background-size: cover;
+  background-position: center center;
+  color: rgb(255, 255, 255);
+}
+
+.topmotivos-bg{
+  background-image: url(https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Dirt_background_BE1.png/revision/latest?cb=20210820093527);
+  
+  background-size: cover;
+  background-position: center center;
+  color: rgb(255, 255, 255);
+  text-shadow:rgb(190, 192, 45) 1px 1px 15px;
+
+}
+
+.white-bg {
+  background: var(--white-color);
+}
+
+.main-content {
+  max-width: 120rem;
+  /* 120rem = 1200px */
+  margin: 0 auto;
+  /* padding: 3rem; */
+  padding: 10rem var(--gap);
+  /* correção */
+}
+
+.section {
+  min-height: 100vh;
+  /* parte 3/4 */
+  /* color: var(--primary-color); */
+}
+
+/* parte 3 */
+.menu-spacing {
+  height: 6.5rem;
+}
+
+body .full-width{
+  width: 100%;
+  flex: 1 1 100%;
+}
+/*background-image: url('https://i.pinimg.com/originals/2d/f4/46/2df446dd616f69bf0e9378421fe92975.jpg');
